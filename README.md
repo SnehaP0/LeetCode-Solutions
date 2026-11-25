@@ -6,12 +6,12 @@ Improve logical thinking and problem-solving skills.
 Practice writing clean and optimized code.
 Maintain consistency in coding practice.
 
-Languages Used
+Languages Used:
 C
 Java
 Python
 
-Topics Covered
+Topics Covered:
 Arrays & Strings
 Linked Lists
 Stacks & Queues
